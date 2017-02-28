@@ -1,0 +1,24 @@
+### Mac OS ###
+.DS_Store
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+/*.iml
+
+## Directory-based project format:
+.idea/
+
+### Gradle ###
+.gradle
+build/
+
+### Android ###
+
+# Local configuration files
+local.properties
+
+# Keystores
+*.keystore
+
+# Proguard folder
+app/proguard/
